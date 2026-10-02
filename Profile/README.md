@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://github.com/artowix/artowix/blob/main/artowix-logo-full.svg" width="620" alt="Artowix Animated Logo" />
+  <img src="https://github.com/artowix/.github/profile/blob/main/artowix-logo-full.svg" width="620" alt="Artowix Animated Logo" />
 </p>
 
 **We turn messy workflows into simple, smooth ones.**
