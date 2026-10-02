@@ -47,9 +47,9 @@ Businesses that want to spend less time on busywork and more time on growth, fro
 
 Have a messy workflow or a process that eats up too much time? We'd love to hear about it.
 
-- 🌍 **Website:** <!-- add your website link -->
-- 📧 **Email:** <!-- add your contact email -->
-- 💼 **LinkedIn:** <!-- add your LinkedIn page -->
+- 🌍 **Website:** www.artowix.com
+- 📧 **Email:** info@artowix.com
+- 💼 **LinkedIn:** https://www.linkedin.com/company/artowix/
 
 <div align="center">
   <sub>Artowix: making complicated workflows simple.</sub>
