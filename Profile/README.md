@@ -51,7 +51,7 @@ Have a messy workflow or a process that eats up too much time? We'd love to hear
 - 📧 **Email:** info@artowix.com
 <p align="center">
   <a href="https://www.linkedin.com/company/artowix/"><img src="https://api.iconify.design/mdi:linkedin.svg?color=%230A66C2" width="22" alt="LinkedIn"></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/artowix/"><img src="https://cdn.simpleicons.org/instagram" width="22" alt="Instagram"></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/artowix.sol/"><img src="https://cdn.simpleicons.org/instagram" width="22" alt="Instagram"></a>&nbsp;&nbsp;
   <a href="https://www.tiktok.com/@artowix4"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tiktok/white"><img src="https://cdn.simpleicons.org/tiktok" width="22" alt="TikTok"></picture></a>&nbsp;&nbsp;
   <a href="https://x.com/artowix"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/white"><img src="https://cdn.simpleicons.org/x" width="22" alt="X"></picture></a>&nbsp;&nbsp;
   <a href="https://www.reddit.com/user/artowix/"><img src="https://cdn.simpleicons.org/reddit" width="22" alt="Reddit"></a>&nbsp;&nbsp;
